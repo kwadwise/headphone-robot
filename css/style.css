@@ -547,7 +547,6 @@ header .mobile-menu {
 
 .product-content button:hover {
   background-color: crimson;
-  scale: 1.1;
   border: none;
   color: white;
 }
