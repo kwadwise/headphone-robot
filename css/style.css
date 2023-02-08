@@ -388,6 +388,7 @@ header .mobile-menu {
 .blue-banner {
   background-color:rgb(6, 163, 242);
   height: 80px;
+  max-width: 100%;
 }
 
 /*blue banner end */
